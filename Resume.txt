@@ -1,0 +1,74 @@
+NAHEEN HOSSAIN
+email : nhossain@email.sc.edu
+
+CAREER OBJECTIVE
+Determined, flexible Computer graduate interested to work in the AI-oriented research areas, in particular program synthesis and NLP applications.
+
+EDUCATION
+
+* BRAC University
+             Bachelor of Science.
+             Major: Computer Science and Engineering
+             Honors: 
+     * Vice Chancellor's List (4.00 GPA)
+
+* University of South Carolina
+Master of Science (Fall 2021- cont.)
+Major: Computer Science
+
+EXPERIENCE 
+
+     * Lecture Instructor
+              University of South Carolina
+              (CSCE102 - General Computer Applications using HTML/CSS/JavaScript))
+              Aug 2022- Present
+     * Lab Instructor
+              University of South Carolina
+              (CSCE145 - Algorithmic Design I)
+              May 2022 - July 2022
+     * Lecture Instructor
+              University of South Carolina
+              (CSCE102 - General Computer Applications(HTML/CSS/JavaScript))
+              Jan 2022- May 2022
+     * Lab Instructor
+              University of South Carolina
+              (CSCE101 - Introduction to Computer Concepts using Python)
+              Aug 2021 - Dec 2021
+
+
+
+
+
+
+
+
+
+RESEARCH AND PROJECTS
+ 
+THESIS:
+      *    Study of automatic Java code generation using program synthesis techniques.
+[May  2022 - August 2022]
+
+* Monitoring of Endangered Fish Population Using Image Processing and AI Tools.
+[September 2018 -December 2018]
+
+* E-commerce website: Book Rental System.                                      
+[Summer 2018]                                                                                                                                                                                                                                            
+                                                                                                                        
+* Voice Controlled Load-Carrying Cart Using Arduino Uno.     
+[February 2018 - April 2018]
+                                                                                                
+* Hospital Management System Application.            
+      [February 2017 - April 2017] 
+
+      
+
+TECHNICAL SKILLS:
+* Languages : Java, Python, C++, SQL, HTML,CSS, JavaScript.
+* Software Applications  and framework:  Eclipse, Android SDK, Anaconda software, Latex, Visual Studio,Node.js, Vue,js, React.
+
+
+                                                                                                                                                                           
+
+2
+
